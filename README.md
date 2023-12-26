@@ -18,7 +18,7 @@ Le Hentai Script est un script Python interactif qui utilise des webhooks Discor
 
 ## Utilisation
 
-1. Clonez le référentiel : `git clone https://github.com/votre-utilisateur/hentai-script.git`
+1. Clonez le référentiel : `git clone https://github.com/FreakiV3/KawaiiHGEN.git`
 2. Naviguez dans le répertoire du script : `cd hentai-script`
 3. Exécutez le script : `python main.py`
 
