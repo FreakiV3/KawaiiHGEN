@@ -36,7 +36,7 @@ Le Hentai Script est un script Python interactif qui utilise des webhooks Discor
 
 ## Auteur
 
-- [FreakiV3](https://github.com/votre-utilisateur)
+- [FreakiV3](https://github.com/FreakiV3)
 
 ## Licence
 
